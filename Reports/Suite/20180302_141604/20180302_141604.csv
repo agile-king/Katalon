@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suite,Chrome 64.0.3282.186,,2018-03-02 14:16:05,2018-03-02 14:16:09,3.516s,PASSED
+,,,,,,
+Test Cases/Scripting/Scripting_Browser_handling,Chrome 64.0.3282.186,,2018-03-02 14:16:05,2018-03-02 14:16:08,2.942s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 64.0.3282.186,,2018-03-02 14:16:05,2018-03-02 14:16:05,0.018s,PASSED
+Statement - println(url),Chrome 64.0.3282.186,,2018-03-02 14:16:06,2018-03-02 14:16:06,0.003s,PASSED
+openBrowser,Chrome 64.0.3282.186,,2018-03-02 14:16:06,2018-03-02 14:16:08,2.786s,PASSED
+Statement - println(db_connection_string),Chrome 64.0.3282.186,,2018-03-02 14:16:08,2018-03-02 14:16:08,0.000s,PASSED
+,,,,,,
+Test Cases/Scripting/Variable,Chrome 64.0.3282.186,,2018-03-02 14:16:08,2018-03-02 14:16:08,0.083s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 64.0.3282.186,,2018-03-02 14:16:08,2018-03-02 14:16:08,0.004s,PASSED
+Statement - println(url),Chrome 64.0.3282.186,,2018-03-02 14:16:08,2018-03-02 14:16:08,0.001s,PASSED

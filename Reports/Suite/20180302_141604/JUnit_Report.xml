@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite" time="3" tests="2" failures="0" errors="0">
+   <testsuite name="Suite" tests="2" failures="0" errors="0" time="3" timestamp="2018-03-02 14:16:05" hostname="frederic_hesse - frederics-macbook.fritz.box" id="Test Suites/Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/frederic_hesse/Documents/SwissQ/Tools/Katalon/Git/Tutorial/Reports/Suite/20180302_141604"/>
+         <property name="logFiles" value="/Users/frederic_hesse/Documents/SwissQ/Tools/Katalon/Git/Tutorial/Reports/Suite/20180302_141604/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="frederic_hesse - frederics-macbook.fritz.box"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="5.3.0.1"/>
+         <property name="browser" value="Chrome 64.0.3282.186"/>
+         <property name="hostAddress" value="192.168.188.31"/>
+         <property name="sessionId" value="c38edf2a26ccfc9cc07685d2ebfa9cbf"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Scripting/Scripting_Browser_handling" classname="Test Cases/Scripting/Scripting_Browser_handling" status="PASSED">
+         <system-out><![CDATA[2018-03-02 14:16:05 - [TEST_CASE][PASSED] - Test Cases/Scripting/Scripting_Browser_handling: Test Cases/Scripting/Scripting_Browser_handling
+
+2018-03-02 14:16:05 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'NewTestListener.sampleBeforeTestCase(...)' completed.
+
+2018-03-02 14:16:05 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseId()): null
+
+2018-03-02 14:16:05 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseVariables()): Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'NewTestListener.sampleBeforeTestCase(...)' completed.
+
+2018-03-02 14:16:06 - [TEST_STEP][PASSED] - Statement - println(url): null
+
+2018-03-02 14:16:06 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'google.ch'
+
+2018-03-02 14:16:08 - [MESSAGE][PASSED] - Browser is opened with url: 'google.ch'
+
+2018-03-02 14:16:08 - [TEST_STEP][PASSED] - Statement - println(db_connection_string): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Scripting/Variable" classname="Test Cases/Scripting/Variable" status="PASSED">
+         <system-out><![CDATA[2018-03-02 14:16:08 - [TEST_CASE][PASSED] - Test Cases/Scripting/Variable: Test Cases/Scripting/Variable
+
+2018-03-02 14:16:08 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'NewTestListener.sampleBeforeTestCase(...)' completed.
+
+2018-03-02 14:16:08 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseId()): null
+
+2018-03-02 14:16:08 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseVariables()): Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'NewTestListener.sampleBeforeTestCase(...)' completed.
+
+2018-03-02 14:16:08 - [TEST_STEP][PASSED] - Statement - println(url): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-02 14:16:05 - [TEST_SUITE][PASSED] - Suite: Test Cases/Scripting/Variable]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

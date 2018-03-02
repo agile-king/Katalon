@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scripting_Browser_handling</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41ee70f5-a970-4499-9740-4b7f3abf1a3f</testCaseGuid>
+   <variable>
+      <defaultValue>'www.google.ch'</defaultValue>
+      <description></description>
+      <id>95170429-9bbf-4a4d-a518-76c594f324a7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
